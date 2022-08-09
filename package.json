@@ -1,0 +1,27 @@
+{
+  "name": "10week.youtube",
+  "version": "1.0.0",
+  "description": "Youtube Clone built using NodeJS, Express, Mongo and ES6",
+  "scripts": {
+    "dev": "nodemon --exec babel-node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/software92/10week.youtube.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/software92/10week.youtube/issues"
+  },
+  "homepage": "https://github.com/software92/10week.youtube#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.10",
+    "@babel/node": "^7.18.10",
+    "@babel/preset-env": "^7.18.10",
+    "nodemon": "^2.0.19"
+  }
+}
